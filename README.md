@@ -1,2 +1,5 @@
-# sorting-visualiser
-this is a sorting visualiser project in which different sorting algorithm are explained and represented in a very easy and simple manner
+# Sorting Visualizer
+
+**A static website for visualizing different comparison based sorting algorithms.**
+
+[Website Link](https://mahfuzrifat7.github.io/SortingVisualizer "Sorting Visualizer")
